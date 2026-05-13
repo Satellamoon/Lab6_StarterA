@@ -1,6 +1,7 @@
 # Lab 6 - Web Components and localStorage API
 
 ## Team Members
+- Raymond Chen
 - Ivan Del Rio
 
 ## GitHub Pages
